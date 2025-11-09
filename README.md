@@ -41,8 +41,7 @@ websocket-client==1.9.0
 wsproto==1.2.0
 ```
 ## installation
-### 1.
-To install environment:
+### 1.To install environment:
 ```bash
 pip install -r requirement.txt
 ```
